@@ -1,4 +1,3 @@
-```markdown
 # Sentiment Analysis of YouTube Comments
 
 This repository contains code for sentiment analysis of YouTube comments. The sentiment analysis process involves preprocessing the data using regular expressions, Pandas, NumPy, etc., to remove URLs, HTML code, emails, emojis, punctuation, and stopwords. The comments are then tokenized to convert sentences into a list of tokens. The polarity of the comments is determined using the TextBlob library. 
@@ -40,5 +39,3 @@ To run the sentiment analysis code:
 - [Contributor 3](https://github.com/contributor3)
 
 Feel free to contribute to this project by opening issues or pull requests!
-
-```
