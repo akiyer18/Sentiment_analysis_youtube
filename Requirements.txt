@@ -1,0 +1,7 @@
+tensorflow-text>=2.0.0rc0
+tensorflow==2.0.0-rc1
+tensorflow-hub
+seaborn
+sentencepiece
+tf_sentencepiece
+tensorflow-datasets==4.0.0
