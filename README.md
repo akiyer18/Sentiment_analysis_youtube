@@ -32,10 +32,5 @@ To run the sentiment analysis code:
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the scripts for data preprocessing and sentiment analysis.
 
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
-- [Contributor 2](https://github.com/contributor2)
-- [Contributor 3](https://github.com/contributor3)
 
 Feel free to contribute to this project by opening issues or pull requests!
